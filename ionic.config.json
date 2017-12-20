@@ -1,0 +1,8 @@
+{
+  "name": "myAppTAb",
+  "app_id": "53f3831b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
